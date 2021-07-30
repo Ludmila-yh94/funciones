@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    text-align:center; 
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+    letter-spacing: 3px;
+    text-indent: 60px;
+    line-height: 1.8;
+    word-spacing: 10px;
+    border-style: dotted;
+    border-width: 5px;
+    border-style: inset;
+      }
+body {
+    background-color: lightgray;
+    color:black;
+
+}      
